@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.gmsg
+*.gzf
+*.3ds
+*.cia
+*.cci
+*.bin
+romfs/
+romfs-extracted/
+*.bak
